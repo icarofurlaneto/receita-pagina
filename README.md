@@ -39,18 +39,8 @@ Edit
 cd receita-pagina
 Abra o arquivo index.html no navegador.
 
-🚀 Ideias para futuras melhorias
-Modo noturno
-
-Inclusão de tempo de preparo e rendimento
-
-Botão para imprimir receita
-
-Versão com JavaScript para cálculo de porções
-
-
-📄 Licença
+## 📄 Licença
 
 Este projeto é livre para uso educacional. Pode ser reutilizado, modificado e adaptado.
 
-Desenvolvido com ❤️ por Ícaro Furlaneto
+Desenvolvido com ❤️ por Ícaro
