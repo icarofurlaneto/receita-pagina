@@ -1,4 +1,4 @@
-# 🧁 Receita Página
+# 🧁 Página de receita
 
 ![Screenshot 2025-05-16 104602](https://github.com/user-attachments/assets/64cbd58d-b89e-4f62-ab56-1d4d551b8011)
 
