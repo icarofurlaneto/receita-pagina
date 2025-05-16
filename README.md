@@ -1,6 +1,6 @@
 # 🧁 Página de receita
 
-![Screenshot 2025-05-16 104602](https://github.com/user-attachments/assets/64cbd58d-b89e-4f62-ab56-1d4d551b8011)
+![Uploading Screenshot 2025-05-16 112030.png…]()
 
 Este projeto é uma página estática de receita culinária desenvolvida com HTML e CSS. A proposta é criar uma **landing page gastronômica**, com foco em **estrutura semântica**, **tipografia legível** e **layout responsivo** para boa experiência do usuário em qualquer dispositivo.
 
